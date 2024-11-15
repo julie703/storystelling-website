@@ -1,0 +1,17 @@
+
+p {color:blue;}
+ol{color: brown;}
+h1{color:yellowgreen;}
+ul{color:brown;}
+.list{
+    color: red;
+    border-style:solid; 
+    border-color: brown;
+    border-radius: 30px;
+}   
+#header{
+color:aqua;
+text-align: center;
+
+}
+
